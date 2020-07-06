@@ -1,5 +1,5 @@
 # Atari600XL-Upgrades
-A 16KB Atari 600XL was upgraded during 2015/2016 with the follwing
+A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions and modifications:
 
 ### Completed upgraded Atari 600XL
 <p align="center">

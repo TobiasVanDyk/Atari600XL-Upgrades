@@ -11,7 +11,8 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the follwing
 <img src="RAM Memory.png" width="540" />  
 <br>
 
-### PS/2 Keyboard upgrade (PIC16F84)
+### PS/2 Keyboard upgrade (PIC16F84) 
+Note open-source version of AKI.hex provided in file MageAKI1.asm
 <p align="center">
 <img src="PS2Keyboard Interface.png" width="440" />  
 <br>

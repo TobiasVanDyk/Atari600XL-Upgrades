@@ -47,7 +47,7 @@ Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches wer
 <br>  
 
 ### PC RS232 interface upgrade (MAX232)
-SIO2PC (source: Nick Kennedy at http://pages.suddenlink.net/wa5bdu/sio2pc.htm) is a hardware & software package interfacing the 8-bit Atari to PC compatible computers. The PC emulates Atari disk drives so Atari programs could be stored on the PC's hard drives. A hardware device to convert logic levels was also necessary. This MAX232 device is now commonly referred to as an SIO2PC cable. The software emulation drivers can be downloaded from the link given. It features:
+SIO2PC (source: Nick Kennedy at http://pages.suddenlink.net/wa5bdu/sio2pc.htm) is a hardware & software package interfacing the 8-bit Atari to PC compatible computers. The PC emulates Atari disk drives so Atari programs could be stored on the PC's hard drives. A hardware device to convert logic levels was also necessary. This MAX232 device is now commonly referred to as an SIO2PC cable - for pinout details refer to SIO2PCPinouts.txt. The software emulation drivers can be downloaded from the link given. It features:
 * Emulates 1 to 4 Atari disk drives
 * Store your Atari files on PC hard or floppy drives
 * Boot from the PC, real drive not needed to start-up

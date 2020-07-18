@@ -1,5 +1,10 @@
 # Atari600XL-Upgrades
 A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions and modifications:
+(1) PS/2 Keyboard<br>
+(2) PC RS232 interface for file storage<br>
+(3) 64k RAM memory upgrade<br>
+(4) Composite video output upgrade<br>
+(5) 5 volt PSU upgrade
 
 ### Completed upgraded Atari 600XL
 <p align="center">

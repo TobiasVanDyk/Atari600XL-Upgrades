@@ -12,7 +12,6 @@ Also read 64kRAMUpgrade.txt<br>
 (2) Bend up three IC pins (U11 74LS51 pin 8, U5 74LS158 pin 3, U6 74LS158 pin 10<br>
 (3) Unsolder one 33 ohm resistor pin R36<br>
 (4) Add 3 jumper wires (yellow, red and blue in photo)<br>
-
 <p align="left">
 <img src="64kRAMUpgrade.png" width="764" />  
 <br>

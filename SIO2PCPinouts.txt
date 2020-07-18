@@ -42,4 +42,8 @@ Above is the view looking into the connector on the Atari computer or peripheral
     +12 volts (not available on XL/XE
     Interrupt
 
-Note that the Atari hardware has stuff designed into this port that was never used by the OS. The clocks, for example. Also note that some of the lines are connected to POKEY and some to the PIA chips. You need the Technical Reference Notes if you want to get into all of this weirdness. Also, I've seen some debates about the mysterious differences between the two ground pins, but I'm pretty sure on my old '800's motherboard they're both soldered to the same circuit board pad.
+Note that the Atari hardware has stuff designed into this port that was never used by the OS. 
+The clocks, for example. Also note that some of the lines are connected to POKEY and some to the PIA chips. 
+You need the Technical Reference Notes if you want to get into all of this weirdness. 
+Also, I've seen some debates about the mysterious differences between the two ground pins, 
+but I'm pretty sure on my old '800's motherboard they're both soldered to the same circuit board pad.

@@ -12,7 +12,8 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions an
 <br>
 
 ### 64k RAM Memory upgrade 
-Also read 64kRAMUpgrade.txt.
+Also read 64kRAMUpgrade.txt - modofication is adapted from a Michigan Atari Magazine article by Don Neff.
+
 1. Replace two existing 16kx4 dram chips with two 41464-10 64K X 4 bit Dram chips
 2. Bend up three IC pins (U11 74LS51 pin 8, U5 74LS158 pin 3, U6 74LS158 pin 10
 3. Unsolder one 33 ohm resistor pin R36

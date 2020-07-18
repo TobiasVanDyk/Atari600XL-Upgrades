@@ -1,4 +1,4 @@
-# Atari600XL-Upgrades
+# Atari 600XL Upgrades
 A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions and modifications:
 (1) PS/2 Keyboard<br>
 (2) PC RS232 interface for file storage<br>

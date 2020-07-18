@@ -12,7 +12,7 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions an
 <br>
 
 ### 64k RAM Memory upgrade 
-Also read 64kRAMUpgrade.txt - modification is adapted from the February 1988 issue of the Michigan Atari Magazine article by Don Neff. Atari SIG Historical Archive has the reference:
+Refer to 600XLRam.png for the original Atari 600XL 16kB RAM schematic. Also read 64kRAMUpgrade.txt - modification is adapted from the February 1988 issue of the Michigan Atari Magazine article by Don Neff. Atari SIG Historical Archive has the reference:
 https://www.atarimax.com/freenet/freenet_material/5.8-BitComputersSupportArea/7.TechnicalResourceCenter/showarticle.php?40
 
 1. Replace two existing 16kx4 dram chips with two 41464-10 64K X 4 bit Dram chips
@@ -29,7 +29,7 @@ https://www.atarimax.com/freenet/freenet_material/5.8-BitComputersSupportArea/7.
 
 ### PS/2 Keyboard upgrade (PIC16F84A) 
 Note an open-source version of PIC16F84AKI.hex is provided in the file MageAKI1.asm.
-Schematic as below - the EEPROM is not required for operation.
+Schematic as below - the EEPROM is not required for operation. Refer to 600XLKeyboard.png for the original Atari 600XL keyboard schematic.
 Refer to https://www.microchip.com/forums/m675230.aspx and https://atariage.com/forums/topic/183498-ps2-keyboard-with-8-bits/ for sources and acknowledgments.
 Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches were removed and connections to the PIC16F84A made through two 16 pin IC socket headers.
 

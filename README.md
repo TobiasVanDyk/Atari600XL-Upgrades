@@ -27,11 +27,11 @@ https://www.atarimax.com/freenet/freenet_material/5.8-BitComputersSupportArea/7.
 <img src="RAM Memory.png" width="540" />  
 <br>
 
-### PS/2 Keyboard upgrade (PIC16F84) 
+### PS/2 Keyboard upgrade (PIC16F84A) 
 Note an open-source version of PIC16F84AKI.hex is provided in the file MageAKI1.asm.
 Schematic as below - the EEPROM is not required for operation.
 Refer to https://www.microchip.com/forums/m675230.aspx and https://atariage.com/forums/topic/183498-ps2-keyboard-with-8-bits/ for sources and acknowledgments.
-Refer to PC2AtariKeys.txt for the Key Maps.
+Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches were removed and connections to the PIC16F84A made through two 16 pin IC socket headers.
 
 <p align="left">
 <img src="PS2KeyboardSchematic.png" width="940" />  

@@ -27,7 +27,12 @@ Also read 64kRAMUpgrade.txt - modification is adapted from a Michigan Atari Maga
 <br>
 
 ### PS/2 Keyboard upgrade (PIC16F84) 
-Note open-source version of AKI.hex provided in file MageAKI1.asm
+Note open-source version of PIC16F84AKI.hex provided in file MageAKI1.asm.
+Schematic as below - the EEPROM is not required for information.
+Refer to https://www.microchip.com/forums/m675230.aspx?print=true and https://atariage.com/forums/topic/183498-ps2-keyboard-with-8-bits/ for sources and acknowledgments.
+<p align="left">
+<img src="PS2KeyboardSchematic.png" width="940" />  
+<br>
 <p align="left">
 <img src="PS2Keyboard Interface.png" width="440" />  
 <br>

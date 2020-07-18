@@ -1,0 +1,49 @@
+64k RAM Upgrade
+(1) Replace two existing 16kx4 dram chips with two 41464-10 64K X 4 bit Dram chips
+(2) Bend up three IC pins (U11 74LS51 pin 8, U5 74LS158 pin 3, U6 74LS158 pin 10
+(3) Unsolder one 33 ohm resistor pin R36
+(4) Add 3 jumper wires (yellow, red and blue in photo)
+
+Step A - RAM           | | | | | | | | |
+                      +-----------------+
+                 U12  |)    41464       |      o   o
+                      +-----------------+      |   |
+                      1| | | | | | | | |       -   -
+           Bend                               |R| |R|
+            up         | | | | | | | | |      |3| |3|
+           Pin 8      +-----------------+     |6| |8|
+              +---+   |)    41464       |      -   -
+  | | | | | | |8  |   +-----------------+     /    |
+ +-------------+  |   1| | | | | | | | |      |o   o leave R38 as it is
+ |)   74LS51   |  | U11                       | unsolder one side of R36 33 ohm resistor and  
+ +-------------+  +---------------------------+ connect to 74LS51 pin 8 74LS51 (yellow wire) 
+ 1| | | | | | |    ADD jumper:pin 8 to resistor
+                              R36
+
+                                          | | | | | | | | 
+ Step B - Addressing                     +---------------+
+                                      U5 |)  74LS158     |
+                                         +---------------+
+                                         1| | | | | | | |
+                                 +------------+ Pin 3, bend up (red wire)
+                                 |
+                                 | +------------------+ Pin 10, Bend up (blue wire)
+                                 | |      | | | | | | | |
+         +-----------------------+ |     +---------------+
+         | +-----------------------+     |)  74LS158     |
+         | |   Add two jumpers,          +---------------+
+     o o o o <-solder to pads            1| | | | | | | |
+     | | | |                            U6
+     / / / /
+    / / / /
+   / / / /
+   | | | |
+ ---------+
+          | U9
+     -----+
+
+
+
+
+
+

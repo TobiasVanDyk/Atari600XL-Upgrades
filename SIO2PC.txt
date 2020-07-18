@@ -1,0 +1,12 @@
+SIO2PC is a hardware & software package interfacing the 8-bit Atari to PC compatible computers. The original idea was to have the PC emulate Atari disk drives so Atari programs could be stored on the PC's hard (or floppy) drives. A hardware device to convert logic levels was also necessary. This device is now commonly referred to as an SIO2PC cable.
+Features:
+ Emulates 1 to 4 Atari disk drives
+ Store your Atari files on PC hard or floppy drives
+ Boot from the PC, real drive not needed to start-up
+ No software or drivers required for the Atari; no conflicts: use your favorite DOS
+ Twice as fast as an Atari 810 drive and more reliable
+ Co-exists with real drives in the Atari daisy chain
+ Compatible down to the hardware level: use sector copiers, etc.
+ Print-Thru captures Atari print-out and routes to PC's printer
+ Convert Atari files to PC files and vice versa
+ 1050-2-PC version connects PC directly to Atari disk drive

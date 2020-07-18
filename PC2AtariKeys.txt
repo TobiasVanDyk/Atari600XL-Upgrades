@@ -1,0 +1,42 @@
+Special function keys: 
+  
+PC key	ATARI-Emulation
+CTRL-ALT-DEL	RESET
+F1 	ATARI (1200er) F1 key* , also SHIFT / CTRL
+F2	ATARI (1200er) F2 key* , also SHIFT / CTRL
+F3	ATARI (1200er) F3 key* , also SHIFT / CTRL
+F4	ATARI (1200er) F4 key* , also SHIFT / CTRL
+F5	START
+F6	SELECT
+F7	OPTION
+F8	RESET
+F9	free
+F10	HELP
+F11	INVERS
+F12	BREAK
+ALT-F9	sending macro 1
+ALT-F10	sending macro 2
+ALT-F11	sending macro 3
+ALT-F12	sending macro 4
+CTRL-ALT-F9	recording macro 1 (max. 15 keystrokes)
+CTRL-ALT-F10	recording macro 2 (max. 15 keystrokes)
+CTRL-ALT-F11	recording macro 3 (max. 15 keystrokes)
+CTRL-ALT-F12	recording macro 4 (max. 15 keystrokes)
+ALT-F1	sending AKI versionnumber 
+ALT-F2	sending fixed macro 'POKE' (for a faster keyboard in BASIC)
+ALT-F3	switching between german and english keyboard layout (stays after power off)
+ALT-F4	stop macro recording 
+F1	Cursor up
+F2	Cursor down
+F3	Cursor left
+F4	Cursor right
+SHIFT-F1	goto top of screen (HOME)
+SHIFT-F2	goto end of line
+SHIFT-F3	goto start of line
+SHIFT-F4	goto bottom of screen
+CTRL-F1	switchs off keyboard until pressing CTRL-F1 (Attention trap!!!)
+CTRL-F2	switchs off screen until pressing any key
+CTRL-F3	toggles keyboardclick
+CTRL-F4	toggles charset (graphic / international)
+
+

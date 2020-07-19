@@ -69,7 +69,7 @@ SIO2PC (source: Nick Kennedy at http://pages.suddenlink.net/wa5bdu/sio2pc.htm) i
 <br>  
   
 ### Video output upgrade
-Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. The 2 pages that lists modification steps for the 600XL are in 600XLVideo.pdf. From the photos it will be noticed that I removed the RF modulator module from the 600XL motherboard, and that I used that space for the PS/2 PIC interface. Refer to 600XLVideo.png for the original Atari 600XL video conditioning schematic. From this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms as I did), before embarking on the extensive modifications as outlined in the  1993 article.   
+Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. 600XLVideo.pdf has two pages from this magazine that list the composite video output modification steps for the 600XL. From the photos on this page, it will be noticed that the RF modulator module was removed from the 600XL motherboard, and the space created used for the PS/2 PIC interface. 600XLVideo.png shows the original Atari 600XL video conditioning schematic - and based on this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms or less), before embarking on the extensive modifications as outlined in the  1993 article.   
 <p align="left">
 <img src="Video Output2.png" width="640" />  
 <br>

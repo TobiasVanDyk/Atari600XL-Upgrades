@@ -7,8 +7,8 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions an
 5. 5 volt PSU upgrade
 
 ### Completed upgraded Atari 600XL
-<p align="center">
-<img src="Atari600XL-Small.png" width="940" />  
+<p align="left">
+<img src="Atari600XL-Small.png" width="980" />  
 <br>
 
 ### 64k RAM Memory upgrade 

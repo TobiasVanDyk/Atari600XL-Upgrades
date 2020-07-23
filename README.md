@@ -69,7 +69,7 @@ SIO2PC (source: Nick Kennedy at http://pages.suddenlink.net/wa5bdu/sio2pc.htm) i
 <br>  
   
 ### Video output upgrade
-Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. 600XLVideo.pdf has two pages from this magazine that list the composite video output modification steps for the 600XL. From the photos on this page, it will be noticed that the RF modulator module was removed from the 600XL motherboard, and the space created used for the PS/2 PIC interface. 600XLVideo.png shows the original Atari 600XL video conditioning schematic - and based on this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms or less), before embarking on the extensive modifications as outlined in the  1993 article.   
+Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. 600XLVideo.pdf has two pages from this magazine that list the composite video output modification steps for the 600XL. From the photos on this page, it will be noticed that the RF modulator module was removed from the 600XL motherboard, and the space created used for the PS/2 PIC interface. 600XLVideo.png shows the original Atari 600XL video conditioning schematic - and based on this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms or less), before embarking on the extensive modifications as outlined in the  1993 article. Refer to the photo at the end for a photo of the easy single resistor, video output.  
 <p align="left">
 <img src="Video Output2.png" width="640" />  
 <br>
@@ -79,4 +79,11 @@ Details on how to add a composite video output to the Atari 600XL were given in 
 <img src="PSU.png" width="740" />  
 <br>
   
-More details to follow....
+ ### Real versus simulated Atari Graphics Mode 0
+ Graphics Mode 0 (ANTIC 2) This is the normal-sized character or text mode that the computer defaults to on start up. Being a character mode, screen memory consists of bytes that represent individual characters in either the ROM or a custom character set. ANTIC displays forty of these 8 x 8 sized characters on each of twenty-four lines. For the fidelity of a simulation refer to the repository Teensy4Atari. The two missing character columns is because of the leftside border.
+<p align="left">
+<img src="AtariReal.png" width="940" />  
+<br>
+<p align="left">
+<img src="AtariSimulated.png" width="940" />  
+<br>

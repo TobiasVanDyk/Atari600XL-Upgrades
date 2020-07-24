@@ -20,7 +20,7 @@ https://www.atarimax.com/freenet/freenet_material/5.8-BitComputersSupportArea/7.
 3. Unsolder one 33 ohm resistor pin R36
 4. Add 3 jumper wires (yellow, red and blue in photo)
 
-The schematic of the RAM upgrade is as below - I LOVE ASCII schematics.
+The schematic of the RAM upgrade is as below - **I LOVE ASCII schematics**.
 
 <p align="left">
 <img src="64kRAMUpgrade.jpg" width="764" />  

@@ -8,7 +8,7 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions an
 
 ### Completed upgraded Atari 600XL
 <p align="left">
-<img src="Atari600XL-Small.png" width="980" />  
+<img src="Atari600XL-Small.jpg" width="980" />  
 <br>
 
 ### 64k RAM Memory upgrade 

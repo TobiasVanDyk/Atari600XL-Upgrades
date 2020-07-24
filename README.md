@@ -23,10 +23,10 @@ https://www.atarimax.com/freenet/freenet_material/5.8-BitComputersSupportArea/7.
 The schematic of the RAM upgrade is as below - I LOVE ASCII schematics.
 
 <p align="left">
-<img src="64kRAMUpgrade.png" width="764" />  
+<img src="64kRAMUpgrade.jpg" width="764" />  
 <br>
 <p align="left">
-<img src="RAM Memory.png" width="540" />  
+<img src="RAM Memory.jpg" width="540" />  
 <br>
 
 ### PS/2 Keyboard upgrade (PIC16F84A) 
@@ -36,16 +36,16 @@ Refer to https://www.microchip.com/forums/m675230.aspx and https://atariage.com/
 Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches were removed and connections to the PIC16F84A made through two 16 pin IC socket headers.
 
 <p align="left">
-<img src="PS2KeyboardSchematic.png" width="940" />  
+<img src="PS2KeyboardSchematic.jpg" width="940" />  
 <br>
 <p align="left">
-<img src="PS2Keyboard Interface.png" width="440" />  
+<img src="PS2Keyboard Interface.jpg" width="440" />  
 <br>
 <p align="left">
-<img src="4051 Keyboard Interface.png" width="440" />  
+<img src="4051 Keyboard Interface.jpg" width="440" />  
 <br> 
 <p align="left">
-<img src="PS2Keyboard Interface Large.png" width="440" />  
+<img src="PS2Keyboard Interface Large.jpg" width="440" />  
 <br>  
 
 ### PC RS232 interface upgrade (MAX232)
@@ -61,29 +61,29 @@ SIO2PC (source: Nick Kennedy at http://pages.suddenlink.net/wa5bdu/sio2pc.htm) i
 * Convert Atari files to PC files and vice versa
 * 1050-2-PC version connects PC directly to Atari disk drive
 <p align="left">
-<img src="SIO2PCSchematic.png" width="637" />  
+<img src="SIO2PCSchematic.jpg" width="637" />  
 <br>
 <p align="left">
-<img src="RS232 PC Interface.png" width="540" />  
+<img src="RS232 PC Interface.jpg" width="540" />  
 <br>
 <p align="left">
-<img src="RS232 PC Interface Large.png" width="540" />  
+<img src="RS232 PC Interface Large.jpg" width="540" />  
 <br>  
   
 ### Video output upgrade
 Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. 600XLVideo.pdf has two pages from this magazine that list the composite video output modification steps for the 600XL. From the photos on this page, it will be noticed that the RF modulator module was removed from the 600XL motherboard, and the space created used for the PS/2 PIC interface. 600XLVideo.png shows the original Atari 600XL video conditioning schematic - and based on this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms or less), before embarking on the extensive modifications as outlined in the  1993 article. Refer to the photo at the end for a photo of the easy single resistor, video output.  
 <p align="left">
-<img src="Video Output2.png" width="640" />  
+<img src="Video Output2.jpg" width="640" />  
 <br>
   
  ### PSU upgrade
 <p align="left">
-<img src="PSU.png" width="740" />  
+<img src="PSU.jpg" width="740" />  
 <br>
   
  ### Real versus simulated Atari Graphics Mode 0
  Graphics Mode 0 (ANTIC 2) This is the normal-sized character or text mode that the computer defaults to on start up. Being a character mode, screen memory consists of bytes that represent individual characters in either the ROM or a custom character set. ANTIC displays forty of these 8 x 8 sized characters on each of twenty-four lines. For the fidelity of a simulation refer to the repository Teensy4Atari https://github.com/TobiasVanDyk/Teensy4Atari. The two missing character columns is the result of the operating system leaving a two character-wide border of the left.
 <p align="left">
-<img src="real-simulated.png" width="940" />  
+<img src="real-simulated.jpg" width="940" />  
 <br>
 

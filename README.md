@@ -12,7 +12,7 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions an
 <br>
 
 ### 64k RAM Memory upgrade 
-Refer to 600XLRam.png for the original Atari 600XL 16kB RAM schematic. Also read 64kRAMUpgrade.txt - modification is adapted from the February 1988 issue of the Michigan Atari Magazine article by Don Neff. Atari SIG Historical Archive has the reference:
+Refer to 600XLRam.jpg https://github.com/TobiasVanDyk/Atari600XL-Upgrades/blob/master/600XLRam.jpg for the original Atari 600XL 16kB RAM schematic. Also read 64kRAMUpgrade.txt - modification is adapted from the February 1988 issue of the Michigan Atari Magazine article by Don Neff. Atari SIG Historical Archive has the reference:
 https://www.atarimax.com/freenet/freenet_material/5.8-BitComputersSupportArea/7.TechnicalResourceCenter/showarticle.php?40
 
 1. Replace two existing 16kx4 dram chips with two 41464-10 64K X 4 bit Dram chips
@@ -31,7 +31,7 @@ The schematic of the RAM upgrade is as below - **I LOVE ASCII schematics**.
 
 ### PS/2 Keyboard upgrade (PIC16F84A) 
 Note an open-source version of PIC16F84AKI.hex is provided in the file MageAKI1.asm.
-Schematic as below - the EEPROM is not required for operation. Refer to 600XLKeyboard.png for the original Atari 600XL keyboard schematic.
+Schematic as below - the EEPROM is not required for operation. Refer to 600XLKeyboard.jpg https://github.com/TobiasVanDyk/Atari600XL-Upgrades/blob/master/600XLKeyboard.jpg for the original Atari 600XL keyboard schematic.
 Refer to https://www.microchip.com/forums/m675230.aspx and https://atariage.com/forums/topic/183498-ps2-keyboard-with-8-bits/ for sources and acknowledgments.
 Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches were removed and connections to the PIC16F84A made through two 16 pin IC socket headers.
 
@@ -71,7 +71,7 @@ SIO2PC (source: Nick Kennedy at http://pages.suddenlink.net/wa5bdu/sio2pc.htm) i
 <br>  
   
 ### Video output upgrade
-Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. 600XLVideo.pdf https://github.com/TobiasVanDyk/Atari600XL-Upgrades/blob/master/600XLVideo.pdf has two pages from this magazine that list the composite video output modification steps for the 600XL. From the photos on this page, it will be noticed that the RF modulator module was removed from the 600XL motherboard, and the space created used for the PS/2 PIC interface. 600XLVideo.png shows the original Atari 600XL video conditioning schematic - and based on this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms or less), before embarking on the extensive modifications as outlined in the  1993 article. Refer to the photo at the end for a photo of the easy single resistor, video output.  
+Details on how to add a composite video output to the Atari 600XL were given in Atari Classics December 1993. 600XLVideo.pdf https://github.com/TobiasVanDyk/Atari600XL-Upgrades/blob/master/600XLVideo.pdf has two pages from this magazine that list the composite video output modification steps for the 600XL. From the photos on this page, it will be noticed that the RF modulator module was removed from the 600XL motherboard, and the space created used for the PS/2 PIC interface. 600XLVideo.jpg https://github.com/TobiasVanDyk/Atari600XL-Upgrades/blob/master/600XLVideo.jpg shows the original Atari 600XL video conditioning schematic - and based on this schematic it is worth testing the two video outputs "composite" and "video RF", through a suitable resistor (220 ohms or less), before embarking on the extensive modifications as outlined in the  1993 article. Refer to the photo at the end for a photo of the easy single resistor, video output.  
 <p align="left">
 <img src="Video Output2.jpg" width="640" />  
 <br>

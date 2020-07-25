@@ -81,7 +81,7 @@ Details on how to add a composite video output to the Atari 600XL were given in 
 <br>
   
  ### Real versus simulated Atari Graphics Mode 0
- Graphics Mode 0 (ANTIC 2) This is the normal-sized character or text mode that the computer defaults to on start up. Being a character mode, screen memory consists of bytes that represent individual characters in either the ROM or a custom character set. ANTIC displays forty of these 8 x 8 sized characters on each of twenty-four lines. For the fidelity of a simulation refer to the repository [**Teensy4Atari**](https://github.com/TobiasVanDyk/Teensy4Atari). The two missing character columns is the result of the operating system leaving a two character-wide border of the left.
+ Graphics Mode 0 (ANTIC 2) This is the normal-sized character or text mode that the computer defaults to on start up. Being a character mode, screen memory consists of bytes that represent individual characters in either the ROM or a custom character set. ANTIC displays forty of these 8 x 8 sized characters on each of twenty-four lines. For the fidelity of a simulation refer to the repository [**Teensy4Atari**](https://github.com/TobiasVanDyk/Teensy4Atari). The two missing character columns is the result of the operating system leaving a two character-wide border on the left.
 <p align="left">
 <img src="real-simulated.jpg" width="940" />  
 <br>

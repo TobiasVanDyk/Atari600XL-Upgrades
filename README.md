@@ -38,13 +38,9 @@ Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches wer
 <img src="PS2KeyboardSchematic.jpg" width="940" />  
 <br>
 <p align="left">
-<img src="PS2Keyboard Interface.jpg" width="440" />  
-<br>
-<p align="left">
-<img src="4051 Keyboard Interface.jpg" width="440" />  
-<br> 
-<p align="left">
-<img src="PS2Keyboard Interface Large.jpg" width="440" />  
+<img src="PS2Keyboard Interface.jpg" width="300" />  
+<img src="4051 Keyboard Interface.jpg" width="300" />  
+<img src="PS2Keyboard Interface Large.jpg" width="300" />  
 <br>  
 
 ### PC RS232 interface upgrade (MAX232)
@@ -63,10 +59,8 @@ SIO2PC (source: Nick Kennedy at [**SIOPC**](http://pages.suddenlink.net/wa5bdu/s
 <img src="SIO2PCSchematic.jpg" width="637" />  
 <br>
 <p align="left">
-<img src="RS232 PC Interface.jpg" width="540" />  
-<br>
-<p align="left">
-<img src="RS232 PC Interface Large.jpg" width="540" />  
+<img src="RS232 PC Interface.jpg" width="400" />  
+<img src="RS232 PC Interface Large.jpg" width="400" />  
 <br>  
   
 ### Video output upgrade

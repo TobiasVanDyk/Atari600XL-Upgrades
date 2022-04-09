@@ -39,7 +39,7 @@ Refer to PC2AtariKeys.txt for the Key Maps. The two CD4051 IC 8-way switches wer
 <br>
 <p align="left">
 <img src="images/PS2Keyboard Interface.jpg" width="300" />  
-<img src="images/4051 Keyboard Interface.jpg" width="300" />  
+<img src="images/4051 Keyboard Interface.jpg" width="290" />  
 <img src="images/PS2Keyboard Interface Large.jpg" width="300" />  
 <br>  
 

@@ -60,10 +60,10 @@ SIO2PC (source: Nick Kennedy at [**SIOPC**](http://pages.suddenlink.net/wa5bdu/s
 <br>
 <p align="left">
 <img src="images/RS232 PC Interface.jpg" width="400" />  
-<img src="images/RS232 PC Interface Large.jpg" width="400" />  
+<img src="images/RS232 PC Interface Large.jpg" width="390" />  
 <br>  
 
-A modern alternative is [**RespeQt an Atari Serial Peripheral Emulator for Qt**](https://github.com/RespeQt/RespeQt). It works with the same RS232 cable as described above and to use in Windows 10:
+A modern alternative is [**RespeQt an Atari Serial Peripheral Emulator for Qt**](https://github.com/RespeQt/RespeQt). It works with the same RS232 cable as described above. To use it in Windows 10:
 
 1.	Extract RespeQt-r5.3-64bits.zip to C:\Programs\Atari RespectQt
 2.	Run RespeQt.exe in subfolder as admin or via desktop shortcut as admin.
@@ -71,9 +71,10 @@ A modern alternative is [**RespeQt an Atari Serial Peripheral Emulator for Qt**]
 4.	Connect RS232 cable from PC COM port into Atari port and switch Atari on - will get blue screen saying ready but let it load for a minute or so
 5.	Will then get first menu choose 01 (Dos)
 6.	Then get second menu choose A, then D1: to see the four files on D1
+  
 <p align="left">
-<img src="images/Win10a.jpg" width="300" />  
-<img src="images/Win10b.jpg" width="300" />  
+<img src="images/Win10a.jpg" width="350" />  
+<img src="images/Win10b.jpg" width="350" />  
 <br>  
 
   

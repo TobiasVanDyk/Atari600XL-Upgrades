@@ -67,10 +67,10 @@ A modern alternative is [**RespeQt an Atari Serial Peripheral Emulator for Qt**]
 
 1.	Extract RespeQt-r5.3-64bits.zip to C:\Programs\Atari RespectQt
 2.	Run RespeQt.exe in subfolder as admin or via desktop shortcut as admin.
-3.	<img src="screens/s1.jpg" width="16" height="16"/> <img src="screens/s2.jpg" width="16" height="16"/> <img src="screens/s3.jpg" width="16" height="16"/> Select Dos20.atr (Atari Magazine Dos Disk from 1986) using COM1 to COMx, and x2 speed RTI falling edge (Use Options menu for this)
-4.	Connect RS232 cable from PC COM port into Atari port and switch Atari on - will get blue screen saying ready but let it load for a minute or so
-5.	Will then get first menu choose 01 (Dos)
-6.	Then get second menu choose A, then D1: to see the four files on D1
+3.	Select Dos20.atr (Atari Magazine Dos Disk from 1986) using COM1 to COMx, and x2 speed RTI falling edge (Use Options menu for this)
+4.	<img src="screens/s1.jpg" width="16" height="16"/> Connect RS232 cable from PC COM port into Atari port and switch Atari on - will get blue screen saying ready but let it load for a minute or so
+5.	<img src="screens/s2.jpg" width="16" height="16"/> Will then get first menu choose 01 (Dos)
+6.	<img src="screens/s3.jpg" width="16" height="16"/> Then get second menu choose A, then D1: to see the four files on D1
   
 <p align="left">
 <img src="images/Win10a.jpg" width="350" />  

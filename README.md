@@ -6,6 +6,9 @@ A 16KB Atari 600XL was upgraded during 2015/2016 with the following additions an
 4. Composite video output upgrade
 5. 5 volt PSU upgrade
 
+Note that all the intergrated circuits are socketed - even audio Pokey chip - [**see this post in the Teensy forum**](https://forum.pjrc.com/threads/70140-quot-Using-quot-an-Atari-Pokey-Chip-with-a-Teensy-4-or-4-1?p=305572&viewfull=1#post305572) - *I look forward to seeing what you create. I was considering snagging a couple to play around with myself, but christ are they expensive. So much so that 400/800/1200XL motherboards on eBay usually come without the POKEY, which is sold separately because $$$.*
+
+
 ### Completed upgraded Atari 600XL
 <p align="left">
 <img src="images/Atari600XL-Small.jpg" width="980" />  
